@@ -7,4 +7,25 @@ html,body
     color:#000000;
     font-family: 'PT Sans', sans-serif;
 }
-
+div
+{
+    box-sizing:border-box;
+}
+.m_row
+{
+    width:1200px;
+    padding-left:15px;
+    padding-right:15px;
+    margin:auto;
+}
+.clear
+{
+    clear:both;
+}
+.main_top
+{
+    width:100%;
+    height:45px;
+    position:relative;
+    background:url(../images/top.png) no-repeat center 0;
+}
